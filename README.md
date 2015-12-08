@@ -1,3 +1,3 @@
-# SoftwareTesting_HW1
+# SoftwareTesting_HW2
 
-Implement the Triangle, NextDate, Commission problems by TDD
+Implement the C0, C1, C2 and MCDC coverage testing using gcov.
